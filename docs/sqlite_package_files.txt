@@ -1,0 +1,9 @@
+./LICENSE
+./README.md
+./src/sqlite/.python-version
+./src/sqlite/Dockerfile
+./src/sqlite/README.md
+./src/sqlite/pyproject.toml
+./src/sqlite/src/mcp_server_sqlite/__init__.py
+./src/sqlite/src/mcp_server_sqlite/server.py
+./src/sqlite/uv.lock
